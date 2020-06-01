@@ -2,7 +2,7 @@
   "name": "jed",
   "version": "1.0.0",
   "description": "TCC",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +11,15 @@
   "dependencies": {
     "express": "^4.17.1",
     "mysql": "^2.18.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre166/teste.git"
+  },
+  "keywords": ["TCC"],
+  "bugs": {
+    "url": "https://github.com/andre166/teste/issues"
+  },
+  "homepage": "https://github.com/andre166/teste#readme"
 }

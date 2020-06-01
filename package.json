@@ -1,6 +1,6 @@
 {
   "name": "jed",
-  "version": "0.0.1",
+  "version": "1.0",
   "description": "TCC",
   "main": "app.js",
   "scripts": {
@@ -17,7 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/andre166/teste.git"
   },
-  "keywords": ["TCC"],
+  "keywords": [
+    "TCC"
+  ],
   "bugs": {
     "url": "https://github.com/andre166/teste/issues"
   },
